@@ -2,27 +2,33 @@
 <h3 align="center">A passionate Data Scientist from Pakistan</h3>
 <img align="right",alt="coding",width=400 src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 <body>
-    <p>🚀 <strong>Passionate Data Scientist</strong> | <strong>Machine Learning Enthusiast</strong> | <strong>Deep Learning Aficionado</strong> 🚀</p>
-    <p>Hello! I'm <strong>Sajjad Ali Shah</strong>, a dedicated Data Scientist with a knack for uncovering insights and solving complex problems through data. With a suite of certifications from Coursera, I bring a wealth of knowledge in data science, machine learning, and deep learning.</p>
-    <p>🔍 <strong>What I Do:</strong></p>
-    <ul>
-        <li><strong>Data Science & Analytics:</strong> Transforming raw data into actionable insights.</li>
-        <li><strong>Machine Learning:</strong> Developing and deploying models that predict and optimize outcomes.</li>
-        <li><strong>Deep Learning:</strong> Pushing the boundaries of AI with cutting-edge techniques in computer vision, NLP, and beyond.</li>
-    </ul>
-    <p>💡 <strong>Current Projects:</strong></p>
-    <p>I’m deeply involved in self-initiated projects that demonstrate my skills and curiosity. From predictive modeling to intricate neural networks, I enjoy tackling challenges head-on and learning continuously.</p>
-    <p>🎯 <strong>Skills & Tools:</strong></p>
-    <ul>
-        <li><strong>Programming:</strong> Python, R</li>
-        <li><strong>Data Manipulation:</strong> SQL, Pandas</li>
-        <li><strong>ML/DL Frameworks:</strong> TensorFlow, Keras, PyTorch</li>
-        <li><strong>Visualization:</strong> Matplotlib, Seaborn</li>
-    </ul>
-    <p>🌟 <strong>My Mission:</strong></p>
-    <p>To harness the power of data and AI to drive innovation and create impactful solutions. I am on the lookout for exciting opportunities where I can contribute, grow, and make a difference.</p>
-    <p>🌐 <strong>Let’s Connect:</strong></p>
-    <p>I’m always eager to connect with fellow professionals, collaborate on projects, or discuss new opportunities. Feel free to reach out!</p>
+    <div class="container">
+        <h1>Hi 👋, I'm Sajjad Ali Shah</h1>
+        <h3>A passionate Data Scientist from Pakistan</h3>
+        <img class="image" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+        <div class="content">
+            <p>Hello! I'm <strong>Sajjad Ali Shah</strong>, a dedicated Data Scientist with a knack for uncovering insights and solving complex problems through data. With a suite of certifications from Coursera, I bring a wealth of knowledge in data science, machine learning, and deep learning.</p>
+            <p>🔍 <strong>What I Do:</strong></p>
+            <ul>
+                <li><strong>Data Science & Analytics:</strong> Transforming raw data into actionable insights.</li>
+                <li><strong>Machine Learning:</strong> Developing and deploying models that predict and optimize outcomes.</li>
+                <li><strong>Deep Learning:</strong> Pushing the boundaries of AI with cutting-edge techniques in computer vision, NLP, and beyond.</li>
+            </ul>
+            <p>💡 <strong>Current Projects:</strong></p>
+            <p>I’m deeply involved in self-initiated projects that demonstrate my skills and curiosity. From predictive modeling to intricate neural networks, I enjoy tackling challenges head-on and learning continuously.</p>
+            <p>🎯 <strong>Skills & Tools:</strong></p>
+            <ul>
+                <li><strong>Programming:</strong> Python, R</li>
+                <li><strong>Data Manipulation:</strong> SQL, Pandas</li>
+                <li><strong>ML/DL Frameworks:</strong> TensorFlow, Keras, PyTorch</li>
+                <li><strong>Visualization:</strong> Matplotlib, Seaborn</li>
+            </ul>
+            <p>🌟 <strong>My Mission:</strong></p>
+            <p>To harness the power of data and AI to drive innovation and create impactful solutions. I am on the lookout for exciting opportunities where I can contribute, grow, and make a difference.</p>
+            <p>🌐 <strong>Let’s Connect:</strong></p>
+            <p>I’m always eager to connect with fellow professionals, collaborate on projects, or discuss new opportunities. Feel free to reach out!</p>
+        </div>
+    </div>
 </body>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajjadkhanyousafzai&label=Profile%20views&color=0e75b6&style=flat" alt="sajjadkhanyousafzai" /> </p>
 
