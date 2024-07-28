@@ -1,6 +1,30 @@
 <h1 align="center">Hi 👋, I'm Sajjad Ali Shah</h1>
 <h3 align="center">A passionate Data Scientist from Pakistan</h3>
 <img align="right",alt="coding",width=400 src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<h3 align="left">About Me </h3>
+<p>🚀 Passionate Data Scientist | Machine Learning Enthusiast | Deep Learning Aficionado 🚀
+
+Hello! I'm Sajjad Ali Shah, a dedicated Data Scientist with a knack for uncovering insights and solving complex problems through data. With a suite of certifications from Coursera, I bring a wealth of knowledge in data science, machine learning, and deep learning.
+
+🔍 What I Do:
+
+Data Science & Analytics: Transforming raw data into actionable insights.
+Machine Learning: Developing and deploying models that predict and optimize outcomes.
+Deep Learning: Pushing the boundaries of AI with cutting-edge techniques in computer vision, NLP, and beyond.
+💡 Current Projects:
+I’m deeply involved in self-initiated projects that demonstrate my skills and curiosity. From predictive modeling to intricate neural networks, I enjoy tackling challenges head-on and learning continuously.
+
+🎯 Skills & Tools:
+
+Programming: Python, R
+Data Manipulation: SQL, Pandas
+ML/DL Frameworks: TensorFlow, Keras, PyTorch
+Visualization: Matplotlib, Seaborn
+🌟 My Mission:
+To harness the power of data and AI to drive innovation and create impactful solutions. I am on the lookout for exciting opportunities where I can contribute, grow, and make a difference.
+
+🌐 Let’s Connect:
+I’m always eager to connect with fellow professionals, collaborate on projects, or discuss new opportunities. Feel free to reach out!</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajjadkhanyousafzai&label=Profile%20views&color=0e75b6&style=flat" alt="sajjadkhanyousafzai" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajjadkhanyousafzai" alt="sajjadkhanyousafzai" /></a> </p>
